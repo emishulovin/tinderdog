@@ -1,3 +1,3 @@
-tinderdog Website: 
+tinderdog website: 
 
 tinderdog-emishulovin-surge.sh
